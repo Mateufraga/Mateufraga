@@ -3,7 +3,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Programação** no <a href="[link da sua faculdade](https://institutocaldeira.org.br/)">Geração Caldeira</a>.
-- 🌱 &nbsp; Aprendendo mais sobre Banco de dados e API.
+- 🌱 &nbsp; Aprendendo mais sobre C# e IA.
 
 <h3>Minhas Skills</h3>
 
