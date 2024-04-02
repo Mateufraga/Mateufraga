@@ -3,7 +3,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Ciência da computação** na <a href="[link da sua faculdade](https://www.unisinos.br//)">Unisinos</a>.
-- 🌱 &nbsp; Aprendendo mais sobre Python,C# e IA.
+- 🌱 &nbsp; Aprendendo mais sobre Python, C# e IA.
 
 <h3>Minhas Skills</h3>
 
