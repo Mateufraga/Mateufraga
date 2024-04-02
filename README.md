@@ -2,8 +2,8 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Programação** na <a href="[link da sua faculdade](https://www.unisinos.br//)">Unisinos</a>.
-- 🌱 &nbsp; Aprendendo mais sobre C# e IA.
+- 🎓 Estudando **Ciência da computação** na <a href="[link da sua faculdade](https://www.unisinos.br//)">Unisinos</a>.
+- 🌱 &nbsp; Aprendendo mais sobre Python,C# e IA.
 
 <h3>Minhas Skills</h3>
 
