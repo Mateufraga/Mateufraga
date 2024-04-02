@@ -2,7 +2,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Programação** no <a href="[link da sua faculdade](https://institutocaldeira.org.br/)">Geração Caldeira</a>.
+- 🎓 Estudando **Programação** na <a href="[link da sua faculdade](https://www.unisinos.br//)">Unisinos</a>.
 - 🌱 &nbsp; Aprendendo mais sobre C# e IA.
 
 <h3>Minhas Skills</h3>
