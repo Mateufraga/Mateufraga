@@ -3,12 +3,14 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Ciência da computação** na <a href="[link da sua faculdade](https://www.unisinos.br//)">Unisinos</a>.
-- 🌱 &nbsp; Aprendendo mais Android.
+- 🌱 &nbsp; Aprendendo mais sobre Android.
 
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
 
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
